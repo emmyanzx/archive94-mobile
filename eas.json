@@ -1,0 +1,13 @@
+{
+  "build": {
+    "preview": {
+      "distribution": "internal",
+      "android": { "buildType": "apk" },
+      "env": {
+        "EXPO_PUBLIC_SUPABASE_URL": "https://qygvshaflqtntbvvdbbc.supabase.co",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_jGWpR_b8eY-e8lsPBVhlXQ_Y1w81hMF",
+        "EXPO_PUBLIC_API_URL": "https://archive94.vercel.app"
+      }
+    }
+  }
+}
